@@ -1,0 +1,9 @@
+*.bundle.*
+lib/
+node_modules/
+*.egg-info/
+.ipynb_checkpoints
+.idea/
+111webpack.config.js
+.DS_Store
+src/.DS_Store
