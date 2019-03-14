@@ -10,7 +10,7 @@ A JupyterLab extension.
 ## Installation
 
 ```bash
-jupyter labextension install stackoverflow_search
+jupyter labextension install @ostter/stackoverflow_search
 ```
 
 ## Development
